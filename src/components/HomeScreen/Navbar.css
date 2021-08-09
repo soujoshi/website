@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,100;1,300;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hahmlet:wght@200;300;400;500&display=swap");
+
+#container {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  width: 298px;
+  height: 800px;
+}
+
+.Bill {
+  margin-left: 40px;
+  margin-top: -2px;
+  font-size: 17px;
+  font-family: "Hahmlet", serif;
+  color: rgb(148, 145, 145);
+}
+
+#keyword {
+  text-decoration: none;
+  font-size: 18px;
+  font-family: "Hahmlet", serif;
+  background-color: rgb(77, 9, 77);
+  color: #fff;
+  border: none;
+  width: 278px;
+  padding: 10px 10px;
+  margin-top: -18px;
+}
+
+#home {
+  margin-right: 35px;
+  color: #fff;
+  margin-left: 10px;
+}
+
+#matches {
+  text-decoration: none;
+  font-size: 18px;
+  font-family: "Hahmlet", serif;
+  color: rgb(148, 145, 145);
+  border: none;
+  width: 278px;
+  padding: 10px 10px;
+  margin-top: -18px;
+}
+
+#home1 {
+  margin-right: 35px;
+  margin-left: 10px;
+  color: rgb(110, 107, 107);
+}
+
+#home2 {
+  margin-right: 15px;
+  margin-left: 100px;
+  color: rgb(110, 107, 107);
+}
+
+#manage {
+  text-decoration: none;
+  font-size: 18px;
+  font-family: "Hahmlet", serif;
+  color: rgb(148, 145, 145);
+  border: none;
+  width: 278px;
+  padding: 10px 10px;
+  margin-top: -18px;
+}
+#integration {
+  text-decoration: none;
+  font-size: 18px;
+  font-family: "Hahmlet", serif;
+  color: rgb(148, 145, 145);
+  border: none;
+  width: 278px;
+  padding: 10px 10px;
+  margin-top: -18px;
+}
+#alerts {
+  text-decoration: none;
+  font-size: 18px;
+  font-family: "Hahmlet", serif;
+  color: rgb(148, 145, 145);
+  border: none;
+  width: 278px;
+  padding: 10px 10px;
+  margin-top: -18px;
+}
+#setting {
+  text-decoration: none;
+  font-size: 18px;
+  font-family: "Hahmlet", serif;
+  color: rgb(65, 63, 63);
+  border: none;
+  width: 278px;
+  padding: 10px 10px;
+  margin-top: -18px;
+}
+
+#home3 {
+  margin-right: 35px;
+  color: rgb(85, 83, 83);
+  margin-left: 10px;
+}

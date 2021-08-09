@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,100;1,300;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hahmlet:wght@200;300;400;500&display=swap");
+
+html {
+  height: 100%;
+  min-height: 100%;
+  background-color: rgb(238, 235, 235);
+}
+
+#navbar {
+  display: flex;
+  flex-direction: row;
+}
+
+#img {
+  margin-left: 18px;
+  width: 50px;
+  height: 55px;
+  margin-top: 16px;
+}
+
+#heading {
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  color: rgb(185, 14, 185);
+  margin-top: 20px;
+  margin-left: 5px;
+  padding: 10px 10px;
+  margin-right: 20px;
+}
+
+#heading span {
+  color: rgb(94, 12, 94);
+}
+
+#nav1 {
+  font-size: 30px;
+  font-family: "Hahmlet", serif;
+  font-weight: bold;
+  color: #fff;
+  margin-left: 60px;
+}
+
+#header-search {
+  margin-left: 860px;
+  width: 330px;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 8px;
+  margin-top: 25px;
+}
+
+#header-search::placeholder {
+  text-align: right;
+  margin-right: 25px;
+  font-size: 14px;
+  color: rgb(49, 12, 83);
+  font-weight: bold;
+}
+
+#icon {
+  font-size: 25px;
+  position: absolute;
+  right: 115px;
+  padding: 10px 12px;
+  pointer-events: none;
+}
+
+form {
+  background-color: rgb(77, 9, 77);
+  width: 1620px;
+  margin-left: 10px;
+  height: 90px;
+}
+
+form #icon {
+  top: 19px;
+  margin-left: 9px;
+  margin-right: 9px;
+}
+
+#a {
+  margin-left: 1510px;
+  margin-top: -40px;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #fff;
+  color: rgb(148, 16, 148);
+  border: 1px solid #fff;
+  border-radius: 50%;
+  width: 25px;
+  height: 30px;
+  padding: 8px 8px;
+  text-align: center;
+}
