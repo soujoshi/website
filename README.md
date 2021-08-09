@@ -1,3 +1,9 @@
+# Screen shot of Website Design
+![website desgin](https://user-images.githubusercontent.com/66310935/128696582-b0a5d722-3175-4528-8142-86c193b0f8a0.JPG)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
